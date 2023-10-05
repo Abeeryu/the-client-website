@@ -7,7 +7,6 @@
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: rgb(243, 237, 237);
-    padding-left: 2em;
 }
 
 .logo{
@@ -15,12 +14,11 @@ body {
     width: 150px;
 }
 
-div{
-    /* max-width: 984px; */
-    margin: auto;
-    background-color:burlywood ;
-    
+header {
+    margin-bottom: 35px;
 }
+
+
 nav{
     background: burlywood;
     padding: 5px 20px;
@@ -28,11 +26,9 @@ nav{
     align-items: center;
     justify-content: space-between;
     height: 60px;
-    margin-bottom: 24px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
-    margin: auto;
-    max-width: 984px;
+    padding: 0 270px;
 }
 
 ul{
@@ -61,9 +57,17 @@ article {
     width: 300px;
     border-radius: 0.5em;    
     padding: 1.5em;
-    /* margin-left: 0em; */
-    margin: auto;
-    
+    margin-left: 16px;
+    /* margin-left: 0em; */    
+}
+
+.article-link {
+    text-decoration: none;
+    display: block;
+}
+
+.article-link:visited {
+    color: #000;
 }
 
 img{
@@ -74,6 +78,11 @@ img{
 .image-1{
     width: 5em;
     padding: 0em;
+}
+
+main {
+    display: flex;
+    justify-content: center;
 }
 
 @media (min-width: 40em) {
@@ -87,3 +96,42 @@ img{
     }
 }
 
+.footer{
+      background-color: lightgrey;
+      padding: 70px 0;
+      width: 100%;
+      position: absolute;
+      margin-top: 35px;
+      padding: 60 100px;
+      line-height: 35px;
+}
+
+.container{
+    max-width: 1170px;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul{
+    list-style: none;
+}
+
+.footer-col{
+    width: 25%;
+    padding: 0 15px;
+}
+
+.footer-col h4{
+    font-size: 18px;
+    color: black;
+    font-weight: 500px;
+    
+}
+
+.footer a{
+    text-decoration: none;
+}
