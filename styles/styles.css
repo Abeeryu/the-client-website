@@ -10,14 +10,17 @@ body {
     padding-left: 2em;
 }
 
-
 .logo{
     height:auto;
     width: 150px;
-    max-width: 100%;
-
 }
 
+div{
+    /* max-width: 984px; */
+    margin: auto;
+    background-color:burlywood ;
+    
+}
 nav{
     background: burlywood;
     padding: 5px 20px;
@@ -28,7 +31,8 @@ nav{
     margin-bottom: 24px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
-    margin-left: 50;
+    margin: auto;
+    max-width: 984px;
 }
 
 ul{
@@ -52,12 +56,14 @@ ul{
     align-items: left;
 }
 
-article{
+article {
     background-color:#e28a3d;
     width: 300px;
     border-radius: 0.5em;    
     padding: 1.5em;
-    margin-left: 0em;
+    /* margin-left: 0em; */
+    margin: auto;
+    
 }
 
 img{
