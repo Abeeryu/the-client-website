@@ -23,7 +23,6 @@ header {
 
 nav{
     background: #F7A100;
-    padding: 5px 20px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -90,10 +89,11 @@ main {
     justify-content: center;
 }
 
-@media (min-width: 40em) {
+@media (min-width: 800px) {
     main {
         display: flex;
         flex-direction: row;
+        color: #F7A100;
     }
 
     article {
@@ -101,19 +101,34 @@ main {
     }
 }
 
+div.scroll-container {
+    background-color: #E6F2F7;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+  }
+  
+  div.scroll-container img {
+    padding: 10px;
+  }
+
+
+    
+
 .footer{
-      background-color: lightgrey;
-      padding: 70px 0;
+      background-color: rgb(225, 225, 225);
+      padding: 0 270px;
       width: 100%;
       position: absolute;
       margin-top: 35px;
-      padding: 60 100px;
       line-height: 35px;
+      align-items: center;
 }
 
 .container{
     max-width: 1170px;
-    margin: auto;
+    margin-top: 4%;
+    
 }
 
 .row{
@@ -126,8 +141,9 @@ ul{
 }
 
 .footer-col{
-    width: 25%;
-    padding: 0 15px;
+    width: 24%;
+    padding: 0 30px;
+
 }
 
 .footer-col h4{
