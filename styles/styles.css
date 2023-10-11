@@ -166,15 +166,16 @@ div.scroll-container {
       /* padding: 0 270px; */
       width: 100%;
       /* position: absolute; */
-      margin-top: 35px;
+      margin-top: 50px;
       line-height: 35px;
-      align-items: center; */
+      align-items: center; 
 }
 
 .container {
     max-width: 1170px;
     /* margin-top: 4%; */
     margin-left: 180px;
+
     
 }
 
