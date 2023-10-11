@@ -9,6 +9,9 @@ body {
     font-style: normal;
     font-weight: 100;
     background-color: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 .logo {
@@ -17,7 +20,7 @@ body {
 }
 
 header {
-    margin-bottom: 35px;
+    margin-bottom: 50px;
 }
 
 
@@ -29,7 +32,7 @@ nav {
     height: 60px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
-    padding: 0 270px;
+    /* padding: 0 270px; */
 }
 
 ul {
@@ -112,8 +115,6 @@ main {
 
 .clickable-images img {
     margin: 3px;
-    /* width: 200px;
-    height: 100px; */
     width: 93px;
     height: 80px;
     object-fit: cover;
@@ -126,6 +127,26 @@ main {
     }
     .article {
         margin-bottom: 0;
+    }
+    nav {
+        padding: 0 70px;
+        /* padding: 0 270px; */
+    }
+    .footer-col {
+        font-size: 16px;
+    }
+    footer {
+        padding: 42px;
+    }
+}
+
+@media screen and (min-width: 769px) {
+    nav {
+        padding: 0 270px;
+    }
+    footer {
+        padding: 70px;
+    
     }
 }
 
@@ -142,23 +163,25 @@ div.scroll-container {
 
 .footer {
       background-color: rgb(225, 225, 225);
-      padding: 0 270px;
+      /* padding: 0 270px; */
       width: 100%;
-      position: absolute;
+      /* position: absolute; */
       margin-top: 35px;
       line-height: 35px;
-      align-items: center;
+      align-items: center; */
 }
 
 .container {
     max-width: 1170px;
-    margin-top: 4%;
+    /* margin-top: 4%; */
+    margin-left: 180px;
     
 }
 
 .row {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 ul {
@@ -167,12 +190,14 @@ ul {
 
 .footer-col {
     width: 24%;
-    padding: 0 30px;
+    color: black;
+    font-size: 10px;
+    /* padding: 0 30px; */
 
 }
 
 .footer-col h4 {
-    font-size: 18px;
+    font-size: 17px;
     color: black;
     font-weight: 500px;
     
