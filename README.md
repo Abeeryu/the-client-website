@@ -13,7 +13,25 @@ Funda redesign
 
 ## Beschrijving
 
-De opdracht is om een redesign te maken van de favorieten pagina van Funda.
+Het doel van deze opdracht is om een favoriete pagina te redesignen. 
+
+We hebben twee user stories gekozen
+
+1. Als gebruiker wil ik al mijn opgeslagen huizen kunnen zien, zodat ik een algemene indruk kan krijgen van welke huizen ik geïnteresseerd ben.
+2. Als gebruiker wil ik alle details van een opgeslagen huis kunnen zien, zodat ik kan heroverwegen of het nog steeds een huis is dat ik in mijn lijst met favoriete huizen wil behouden.
+We willen voor de eerste pagina van de favorieten pagina een overzicht zien van de opgeslagen huizen met daarbij de belangrijkste details van het huis. En bij de tweede pagina willen we de uitgebreide details van het huis laten zien.
+
+We gebruiken de brandguide van Funda. 
+https://brand.funda.nl/d/d9gw4zTPqYFU/brand-guide?#/merk/brand-principles-p3495843
+
+Figma voorbeelden
+
+Pagina 1
+![MicrosoftTeams-image](https://github.com/Abeeryu/the-client-website/assets/144008863/72f564a8-596f-43d7-837d-7ac937c1e892)
+
+Pagina 2
+![MicrosoftTeams-image (1)](https://github.com/Abeeryu/the-client-website/assets/144008863/f86df47f-8f6e-4c90-88bb-e2f16ba512dd)
+
 
 Debriefing
 
