@@ -65,12 +65,12 @@ article {
     align-items: center;
     flex-direction: column;
     margin-bottom: 16px;
+    margin-right: 50px;
 }
 
 .article-container {
     display: flex;
     flex-direction: column;
-
 }
 
 .article-link {
