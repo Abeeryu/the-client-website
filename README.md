@@ -27,10 +27,12 @@ https://brand.funda.nl/d/d9gw4zTPqYFU/brand-guide?#/merk/brand-principles-p34958
 Figma voorbeelden
 
 Pagina 1
-![MicrosoftTeams-image](https://github.com/Abeeryu/the-client-website/assets/144008863/72f564a8-596f-43d7-837d-7ac937c1e892)
+<img width="788" alt="Scherm­afbeelding 2023-10-12 om 09 06 33" src="https://github.com/Abeeryu/the-client-website/assets/144008863/6816b223-b9f1-4931-b056-22d186d97260">
+
 
 Pagina 2
-<img width="400" alt="Scherm­afbeelding 2023-10-12 om 08 59 11" src="https://github.com/Abeeryu/the-client-website/assets/144008863/28bf97f6-6c36-45af-9741-a861dcdecd3a">
+<img width="775" alt="Scherm­afbeelding 2023-10-12 om 09 02 04" src="https://github.com/Abeeryu/the-client-website/assets/144008863/16ad1e1e-36bc-4d05-8a73-10b61a055d1e">
+
 
 
 
