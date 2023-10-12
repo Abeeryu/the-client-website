@@ -30,7 +30,8 @@ Pagina 1
 ![MicrosoftTeams-image](https://github.com/Abeeryu/the-client-website/assets/144008863/72f564a8-596f-43d7-837d-7ac937c1e892)
 
 Pagina 2
-![MicrosoftTeams-image (1)](https://github.com/Abeeryu/the-client-website/assets/144008863/f86df47f-8f6e-4c90-88bb-e2f16ba512dd)
+<img width="400" alt="Scherm­afbeelding 2023-10-12 om 08 59 11" src="https://github.com/Abeeryu/the-client-website/assets/144008863/28bf97f6-6c36-45af-9741-a861dcdecd3a">
+
 
 
 Debriefing
